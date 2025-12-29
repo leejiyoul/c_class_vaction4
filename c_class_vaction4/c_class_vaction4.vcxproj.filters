@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\day2">
       <UniqueIdentifier>{8ae0558d-e524-45c9-9f66-45372ed91d98}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\day4">
+      <UniqueIdentifier>{86e52c78-d10c-4f98-b61c-e38230b3c6dd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="day1.c">
@@ -44,6 +47,21 @@
     </ClCompile>
     <ClCompile Include="상수.c">
       <Filter>소스 파일\day2</Filter>
+    </ClCompile>
+    <ClCompile Include="andornot.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="삼항조건연산자.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="비트단위연산자.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="시프트연산자.c">
+      <Filter>소스 파일\day4</Filter>
+    </ClCompile>
+    <ClCompile Include="if문.c">
+      <Filter>소스 파일\day4</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
